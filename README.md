@@ -4,4 +4,4 @@
 
 Made with [Phaser Framework](https://github.com/photonstorm/phaser)
 
-Live Demo: [](https://der-eddy.github.io/phaser-school/eddy.html)
+Live Demo: [Link](https://der-eddy.github.io/phaser-school/eddy.html)
