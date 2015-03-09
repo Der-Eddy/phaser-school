@@ -78,7 +78,7 @@ function create() {
         star.body.bounce.y = 0.7 + Math.random() * 0.2;
     }
 
-    scoreText = game.add.text(16, 16, 'score: 0', { fontSize: '32px', fill: '#000' });
+    scoreText = game.add.text(16, 16, 'score: 0', { fontSize: '32px', fill: '#ffc63e' });
 }
 
 function update() {
