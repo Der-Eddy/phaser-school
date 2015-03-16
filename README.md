@@ -5,3 +5,6 @@
 Made with [Phaser Framework](https://github.com/photonstorm/phaser)
 
 Live Demo: [Link](https://der-eddy.github.io/phaser-school/eddy.html)
+
+Screenshot:  
+![screenshot](http://abload.de/img/2015-03-16195815paunn.png)
